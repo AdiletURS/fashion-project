@@ -1,0 +1,79 @@
+.footer a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.footer a:visited {
+    color: inherit;
+}
+
+.footer a:hover,
+.footer a:focus,
+.footer a:active {
+    color: inherit;
+}
+
+.footer {
+    background-color: #000;
+}
+
+
+.footer__content{
+    padding: 119px 100px 147px;
+    display: flex;
+}
+
+.footer__fashion{
+    margin-right: 455px;
+}
+
+.footer__title{
+    width: 415px;
+    margin-bottom: 32px;
+}
+.footer__title h2 {
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 100%;
+    letter-spacing: 3%;
+    margin-bottom: 32px;
+    color: white;
+}
+.footer__title span{
+    color: rgba(142, 142, 142, 1);
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 40px;
+    letter-spacing: 2%;
+}
+.footer__icons{
+    width: 250px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer__information{
+    display: flex;
+    justify-content: space-between;
+    width: 850px;
+}
+
+.footer__information h3,li{
+    margin-bottom: 32px;
+}
+
+.footer__information h3{
+    color: white;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 40px;
+    letter-spacing: 2%;
+}
+
+.footer__company ul li{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 40px;
+    letter-spacing: 2%;
+    color: rgba(122, 122, 122, 1);
+}

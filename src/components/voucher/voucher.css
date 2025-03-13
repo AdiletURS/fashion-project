@@ -1,0 +1,37 @@
+
+.voucher{
+    margin-bottom: 220px;
+}
+
+
+.voucher__content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.voucher__text{
+    width: 510px;
+}
+
+.voucher__title{
+    margin-bottom: 60px;
+}
+.voucher__title h2{
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 150%;
+    letter-spacing: 6%;
+    margin-bottom: 41px;
+}
+.voucher__title span {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 35px;
+    letter-spacing: -4%;
+    color: rgba(124, 124, 124, 1);
+
+}
+.voucher__social{
+    display: flex;
+    justify-content: space-between;
+}

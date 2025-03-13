@@ -1,0 +1,11 @@
+.favourite{
+    margin-bottom: 220px;
+}
+.favourite__header{
+    margin-bottom: 104px;
+}
+
+.favourite__cards{
+    display: flex;
+    justify-content: space-between;
+}
